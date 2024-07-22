@@ -1,5 +1,7 @@
 RENCANA CITA DANENDRA HJ
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Frameworks
 - Interview
 - Vlogs
