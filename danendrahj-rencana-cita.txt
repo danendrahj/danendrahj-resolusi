@@ -2,7 +2,10 @@ RENCANA CITA DANENDRA HJ
 - Javascript
   * ES6
   * Framework Javascript
+     ^ Vue
 - Struktur Data Dasar
 - PHP Frameworks
+   ^ Laravel
 - Interview
 - Vlogs
+- Python
